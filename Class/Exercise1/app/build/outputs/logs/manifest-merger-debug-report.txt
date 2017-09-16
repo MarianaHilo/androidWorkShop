@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Starteck\AndroidStudioProjects\Class\Exercise1\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\Starteck\AndroidStudioProjects\Class\Exercise1\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\Starteck\AndroidStudioProjects\Class\Exercise1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Starteck\AndroidStudioProjects\Class\Exercise1\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Starteck\AndroidStudioProjects\Class\Exercise1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Starteck\AndroidStudioProjects\Class\Exercise1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Starteck\AndroidStudioProjects\Class\Exercise1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Starteck\AndroidStudioProjects\Class\Exercise1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Starteck\AndroidStudioProjects\Class\Exercise1\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Starteck\AndroidStudioProjects\Class\Exercise1\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Starteck\.android\build-cache\35b2a5ef8738cf474edbacb35e729c655f2de3b7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Starteck\.android\build-cache\ad102a78529e676ab5bc858c1af46c09cf5baceb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Starteck\.android\build-cache\186a7eecee9eec17bed4fbfb4c4e521d9f1dad3a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Starteck\.android\build-cache\f3e4835d5e2428932e28e42cf6d6b5c332acf8d8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Starteck\.android\build-cache\5683d390bdbc09c4978f2cb8f5d55a8b8f61cd2f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Starteck\.android\build-cache\75825fbbdbc12739e4fb653649c28ef926491257\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Starteck\.android\build-cache\4a6abfc16e99fa85c5d80afc9bdac6903ce51da6\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Starteck\.android\build-cache\e81f655ee628b04723af174d19eb74f16f4864ce\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Starteck\.android\build-cache\e606acd20785cad781132fbbfe9f871bb1f7846f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Starteck\.android\build-cache\3c2260160685a3b9b6b4cf8a37369374164e8801\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Starteck\AndroidStudioProjects\Class\Exercise1\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Starteck\AndroidStudioProjects\Class\Exercise1\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\Starteck\AndroidStudioProjects\Class\Exercise1\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\Starteck\AndroidStudioProjects\Class\Exercise1\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\Starteck\AndroidStudioProjects\Class\Exercise1\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\Starteck\AndroidStudioProjects\Class\Exercise1\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.starteck.exweek1.MainActivity
+ADDED from C:\Users\Starteck\AndroidStudioProjects\Class\Exercise1\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Starteck\AndroidStudioProjects\Class\Exercise1\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Starteck\AndroidStudioProjects\Class\Exercise1\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Starteck\AndroidStudioProjects\Class\Exercise1\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Starteck\AndroidStudioProjects\Class\Exercise1\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Starteck\AndroidStudioProjects\Class\Exercise1\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Starteck\AndroidStudioProjects\Class\Exercise1\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\Starteck\AndroidStudioProjects\Class\Exercise1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Starteck\.android\build-cache\35b2a5ef8738cf474edbacb35e729c655f2de3b7\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Starteck\.android\build-cache\ad102a78529e676ab5bc858c1af46c09cf5baceb\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Starteck\.android\build-cache\186a7eecee9eec17bed4fbfb4c4e521d9f1dad3a\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Starteck\.android\build-cache\f3e4835d5e2428932e28e42cf6d6b5c332acf8d8\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Starteck\.android\build-cache\5683d390bdbc09c4978f2cb8f5d55a8b8f61cd2f\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Starteck\.android\build-cache\75825fbbdbc12739e4fb653649c28ef926491257\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Starteck\.android\build-cache\4a6abfc16e99fa85c5d80afc9bdac6903ce51da6\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Starteck\.android\build-cache\e81f655ee628b04723af174d19eb74f16f4864ce\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Starteck\.android\build-cache\e606acd20785cad781132fbbfe9f871bb1f7846f\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Starteck\.android\build-cache\3c2260160685a3b9b6b4cf8a37369374164e8801\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Starteck\.android\build-cache\35b2a5ef8738cf474edbacb35e729c655f2de3b7\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Starteck\AndroidStudioProjects\Class\Exercise1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Starteck\AndroidStudioProjects\Class\Exercise1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Starteck\AndroidStudioProjects\Class\Exercise1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Starteck\AndroidStudioProjects\Class\Exercise1\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Starteck\.android\build-cache\35b2a5ef8738cf474edbacb35e729c655f2de3b7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Starteck\.android\build-cache\ad102a78529e676ab5bc858c1af46c09cf5baceb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Starteck\.android\build-cache\186a7eecee9eec17bed4fbfb4c4e521d9f1dad3a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Starteck\.android\build-cache\f3e4835d5e2428932e28e42cf6d6b5c332acf8d8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Starteck\.android\build-cache\5683d390bdbc09c4978f2cb8f5d55a8b8f61cd2f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Starteck\.android\build-cache\75825fbbdbc12739e4fb653649c28ef926491257\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Starteck\.android\build-cache\4a6abfc16e99fa85c5d80afc9bdac6903ce51da6\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Starteck\.android\build-cache\e81f655ee628b04723af174d19eb74f16f4864ce\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Starteck\.android\build-cache\e606acd20785cad781132fbbfe9f871bb1f7846f\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Starteck\.android\build-cache\35b2a5ef8738cf474edbacb35e729c655f2de3b7\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Starteck\.android\build-cache\35b2a5ef8738cf474edbacb35e729c655f2de3b7\output\AndroidManifest.xml:26:9-47
